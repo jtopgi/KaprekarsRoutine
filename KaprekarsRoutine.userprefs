@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AD82239B-1E6E-43B8-A13A-1D0C3C612A7A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KaprekarsRoutine/Program.cs">
+    <Files>
+      <File FileName="KaprekarsRoutine/Program.cs" Line="91" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.KaprekarsRoutine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

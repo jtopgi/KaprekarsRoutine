@@ -1,0 +1,5 @@
+/Code/Projects/DailyProgrammer/KaprekarsRoutine/KaprekarsRoutine/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Code/Projects/DailyProgrammer/KaprekarsRoutine/KaprekarsRoutine/bin/Debug/KaprekarsRoutine.exe.mdb
+/Code/Projects/DailyProgrammer/KaprekarsRoutine/KaprekarsRoutine/bin/Debug/KaprekarsRoutine.exe
+/Code/Projects/DailyProgrammer/KaprekarsRoutine/KaprekarsRoutine/obj/x86/Debug/KaprekarsRoutine.exe
+/Code/Projects/DailyProgrammer/KaprekarsRoutine/KaprekarsRoutine/obj/x86/Debug/KaprekarsRoutine.exe.mdb
